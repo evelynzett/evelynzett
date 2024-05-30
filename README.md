@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @evelynzett
 - 👀 I’m interested in code that helps people!
 - 🌱 I’m currently a neuroscience pre-med major at Michigan State University with a concentration in cognitive/computational neurosceince.
-- 💞️ I’m looking to learn more about using AI.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love the gym, videogames, fishing, and sci-fi!!
